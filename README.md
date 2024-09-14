@@ -22,6 +22,7 @@ Then you can just use ```play /path/to/audio/file.mp3``` to play the file.
 
 <details open>
 <summary><h3>✨ Planned Features ✨</h3></summary>
+
 - Ability to easily share and import .txt files for audio files
 - Easy setup for the API and Shock ID
 - Web UI (and a publicly hosted instance)
